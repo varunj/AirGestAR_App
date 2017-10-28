@@ -1,2 +1,2 @@
-# TCS_HandPose_App
-Android Application for TCS_AirGestAR
+# AirGestAR_App
+Android Application for AirGestAR http://varunj.github.io/airgestar
